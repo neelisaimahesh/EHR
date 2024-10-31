@@ -64,6 +64,6 @@ npm install -g truffle
 npm start
 ```
 
-Known Issue: (https://github.com/shamil-t/ehr-blockchain/issues/15)
+
 
 
